@@ -1,6 +1,6 @@
 # docker-brms
 =============
-Docker image for version 6.4 of JBoss Enterprise Application Server and version 6.1 of Red Hat BRMS 6
+Docker image for version 6.4.0 of JBoss Enterprise Application Server and version 6.1.0 of Red Hat BRMS 6
 
 Note: These versions must be the same
 
